@@ -1,6 +1,6 @@
 ## Shapefiles
 
-The repository contains information about commonly used shapefiles in the Australian climate research community.
+The repository contains information about commonly used shapefiles for climate research in Australia.
 
 #### Australia
 
