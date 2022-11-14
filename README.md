@@ -3,6 +3,10 @@
 The repository contains information about the shapefile collection that forms part of the
 Australian Community Reference Climate Data Collection @ NCI:
 
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/aus_local_gov/`
+- Shapefiles describing the local government areas of Australia
+- See `aus_local_gov.ipynb` for details
+
 `/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/aus_states_territories/`
 - Shapefiles describing the states and territories of Australia
 - See `aus_states_territories.ipynb` for details
