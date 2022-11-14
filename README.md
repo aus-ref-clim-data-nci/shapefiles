@@ -1,26 +1,28 @@
-## Shapefiles
+# Shapefiles
 
-The repository contains information about commonly used shapefiles for climate research in Australia.
+The repository contains information about the shapefile collection that forms part of the
+Australian Community Reference Climate Data Collection @ NCI:
 
-#### Australia
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/shapefiles/shapefiles_states_territories/`  
+- Shapefiles describing the states and territories of Australia
+- See `aus_states_territories.ipynb` for details
 
-The Australian Bureau of Statistics maintains the Australian Statistical Geography Standard (ASGS).
-The latest release is [Edition 3](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3).
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/shapefiles/shapefiles_australia/`
+- Shapefiles describing the Australian coastline
+- See `australia.ipynb` for details
 
-The original
-[ABS shapefiles](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files) contain some shapes/geometries that can confuse some software packages
-(e.g. 'other territories', 'outside australia'),
-so the `australia.ipynb` and `aus_states_territories.ipynb` notebooks download the original shapefiles
-and remove unneeded rows and columns.
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/shapefiles_broadacre_regions/`
+- Shapefiles describing the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) broadacre zones and regions
+- See `broadacre_regions.ipynb` for details
 
-See the `australia/` and `aus_states_territories/` directories in this repository for the new shapefiles
-with unnecessary information removed.
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/shapefiles_nrm_regions/`
+- Shapefiles describing the natural resource management (NRM) clusters
+- See `nrm_regions.ipynb` for details
 
-#### Natural Resource Management (NRM) clusters
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/shapefiles_river_regions/`
+- Shapefiles describing the topographic drainage divisions and river regions derived from the Australian Hydrological Geospatial Fabric
+- See `river_regions.ipynb` for details
 
-The Climate Change in Australia projections defined a set of natural resource management clusters.
-The corresponding shapefiles can be downloaded [here](https://www.climatechangeinaustralia.gov.au/en/overview/methodology/nrm-regions/).
-They are in a format that is typically useable without any manipulation.
 
 ## Software
 
@@ -38,4 +40,6 @@ to select grid points from an xarray data set that fall within the shape/s.
 The [unseen](https://github.com/AusClimateService/unseen/blob/bd1dd32f0de81ff03bf862eee0f14715e3d5bfbe/unseen/spatial_selection.py#L97)
 library has built on regionmask to provide more sophisticated functionality.
 
+#### Other languages
 
+TODO.
