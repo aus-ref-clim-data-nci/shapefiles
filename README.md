@@ -5,7 +5,7 @@ Australian Community Reference Climate Data Collection @ NCI:
 
 `/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/aus_states_territories/`
 - Shapefiles describing the states and territories of Australia
-- See `states_territories.ipynb` for details
+- See `aus_states_territories.ipynb` for details
 
 `/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/australia/`
 - Shapefiles describing the Australian coastline
