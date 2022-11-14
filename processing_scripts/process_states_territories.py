@@ -12,4 +12,4 @@ gdf = gp.read_file('https://www.abs.gov.au/statistics/standards/australian-stati
 gdf = gdf.drop([9])
 gdf = gdf.drop(columns=['STE_CODE21', 'CHG_FLAG21', 'CHG_LBL21', 'AUS_CODE21', 'AUS_NAME21'])
 
-gdf.to_file('../shapefiles_states_territories/aus_states_territories.shp')
+gdf.to_file('/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/aus_states_territories/aus_states_territories.shp')

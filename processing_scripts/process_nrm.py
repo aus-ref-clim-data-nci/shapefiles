@@ -67,4 +67,4 @@ nrm_regions = nrm_regions[[
     'geometry',
 ]]
 
-nrm_regions.to_file('../shapefiles_nrm_regions/nrm_regions.shp')
+nrm_regions.to_file('/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/nrm_regions/nrm_regions.shp')

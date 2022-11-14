@@ -3,23 +3,23 @@
 The repository contains information about the shapefile collection that forms part of the
 Australian Community Reference Climate Data Collection @ NCI:
 
-`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/shapefiles/shapefiles_states_territories/`  
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/aus_states_territories/`
 - Shapefiles describing the states and territories of Australia
-- See `aus_states_territories.ipynb` for details
+- See `states_territories.ipynb` for details
 
-`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/shapefiles/shapefiles_australia/`
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/australia/`
 - Shapefiles describing the Australian coastline
 - See `australia.ipynb` for details
 
-`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/shapefiles_broadacre_regions/`
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/broadacre_regions/`
 - Shapefiles describing the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) broadacre zones and regions
 - See `broadacre_regions.ipynb` for details
 
-`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/shapefiles_nrm_regions/`
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/nrm_regions/`
 - Shapefiles describing the natural resource management (NRM) clusters
 - See `nrm_regions.ipynb` for details
 
-`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/shapefiles_river_regions/`
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/river_regions/`
 - Shapefiles describing the topographic drainage divisions and river regions derived from the Australian Hydrological Geospatial Fabric
 - See `river_regions.ipynb` for details
 

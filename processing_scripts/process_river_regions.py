@@ -28,4 +28,4 @@ river_regions = river_regions.drop(columns=[
     'Shape_Area',
 ])
 river_regions = river_regions[['RivRegName', 'RivRegNum', 'Division', 'geometry']]
-river_regions.to_file('../shapefiles_river_regions/river_regions.shp')
+river_regions.to_file('/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/river_regions/river_regions.shp')
