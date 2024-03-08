@@ -5,27 +5,27 @@ contains the following:
 
 `/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/aus_local_gov/`
 - Shapefiles describing the local government areas of Australia
-- See `aus_local_gov.ipynb` for details
+- See [`aus_local_gov.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/aus_local_gov.ipynb) for details
 
 `/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/aus_states_territories/`
 - Shapefiles describing the states and territories of Australia
-- See `aus_states_territories.ipynb` for details
+- See [`aus_states_territories.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/aus_states_territories.ipynb) for details
 
 `/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/australia/`
 - Shapefiles describing the Australian coastline
-- See `australia.ipynb` for details
+- See [`australia.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/australia.ipynb) for details
 
 `/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/broadacre_regions/`
 - Shapefiles describing the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) broadacre zones and regions
-- See `broadacre_regions.ipynb` for details
+- See [`broadacre_regions.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/broadacre_regions.ipynb) for details
 
 `/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/nrm_regions/`
 - Shapefiles describing the natural resource management (NRM) clusters
-- See `nrm_regions.ipynb` for details
+- See [`nrm_regions.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/nrm_regions.ipynb) for details
 
 `/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/river_regions/`
 - Shapefiles describing the topographic drainage divisions and river regions derived from the Australian Hydrological Geospatial Fabric
-- See `river_regions.ipynb` for details
+- See [`river_regions.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/river_regions.ipynb) for details
 
 
 ## Software
