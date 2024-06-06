@@ -41,8 +41,9 @@ The resulting GeoDataFrame can then be passed to a function from the
 [regionmask](https://regionmask.readthedocs.io) or
 [clisops](https://clisops.readthedocs.io) library
 to select grid points from an xarray data set that fall within the shape/s.
-The [unseen](https://github.com/AusClimateService/unseen/blob/master/unseen/spatial_selection.py#L133)
-library has built on regionmask to provide more sophisticated functionality.
+
+See [`python_tutorial.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/python_tutorial.ipynb)
+for a worked example using regionmask and the shapefiles in this collection.
 
 #### Other languages
 
