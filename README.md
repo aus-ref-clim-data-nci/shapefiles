@@ -19,6 +19,18 @@ contains the following:
 - Shapefiles describing the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) broadacre zones and regions
 - See [`broadacre_regions.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/broadacre_regions.ipynb) for details
 
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/NCRA_Marine_region/`
+- Shapefiles describing the National Climate Risk Assessment (NCRA) marine region for Australia.
+- See [`ncra_marine_region.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/ncra_marine_region.ipynb) for details
+
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/ncra_regions/`
+- Shapefiles describing the National Climate Risk Assessment (NCRA) regions of Australia.
+- See [`ncra_regions.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/ncra_regions.ipynb) for details
+  
+`/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/NCRA_regions_coastal_waters_GDA94/`
+- Shapefiles describing the Australian coastal waters areas divided by NCRA regions
+- See [`ncra_coastal_waters.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/ncra_coastal_waters.ipynb) for details
+
 `/g/data/ia39/aus-ref-clim-data-nci/shapefiles/data/nrm_regions/`
 - Shapefiles describing the natural resource management (NRM) clusters
 - See [`nrm_regions.ipynb`](https://github.com/aus-ref-clim-data-nci/shapefiles/blob/master/nrm_regions.ipynb) for details
